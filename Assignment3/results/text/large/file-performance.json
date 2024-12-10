@@ -1,0 +1,502 @@
+[
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 16.58,
+        "timestamp": "Tue Dec 10 10:43:22 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19.487,
+        "timestamp": "Tue Dec 10 10:43:42 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.655,
+        "timestamp": "Tue Dec 10 10:44:01 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.027,
+        "timestamp": "Tue Dec 10 10:44:19 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.093,
+        "timestamp": "Tue Dec 10 10:44:37 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.229,
+        "timestamp": "Tue Dec 10 10:44:55 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.178,
+        "timestamp": "Tue Dec 10 10:45:13 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.055,
+        "timestamp": "Tue Dec 10 10:45:31 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 16.972,
+        "timestamp": "Tue Dec 10 10:45:48 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 16.903,
+        "timestamp": "Tue Dec 10 10:46:06 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 16.935,
+        "timestamp": "Tue Dec 10 10:46:24 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 16.945,
+        "timestamp": "Tue Dec 10 10:46:41 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.015,
+        "timestamp": "Tue Dec 10 10:46:59 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.29,
+        "timestamp": "Tue Dec 10 10:47:17 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.094,
+        "timestamp": "Tue Dec 10 10:47:35 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.881,
+        "timestamp": "Tue Dec 10 10:47:54 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.349,
+        "timestamp": "Tue Dec 10 10:48:12 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.415,
+        "timestamp": "Tue Dec 10 10:48:30 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.343,
+        "timestamp": "Tue Dec 10 10:48:48 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.714,
+        "timestamp": "Tue Dec 10 10:49:07 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.65,
+        "timestamp": "Tue Dec 10 10:49:25 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.325,
+        "timestamp": "Tue Dec 10 10:49:44 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.226,
+        "timestamp": "Tue Dec 10 10:50:02 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.121,
+        "timestamp": "Tue Dec 10 10:50:19 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.68,
+        "timestamp": "Tue Dec 10 10:50:38 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.118,
+        "timestamp": "Tue Dec 10 10:50:56 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.183,
+        "timestamp": "Tue Dec 10 10:51:14 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.092,
+        "timestamp": "Tue Dec 10 10:51:31 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.118,
+        "timestamp": "Tue Dec 10 10:51:49 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.456,
+        "timestamp": "Tue Dec 10 10:52:07 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.27,
+        "timestamp": "Tue Dec 10 10:52:25 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.162,
+        "timestamp": "Tue Dec 10 10:52:43 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.242,
+        "timestamp": "Tue Dec 10 10:53:01 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.217,
+        "timestamp": "Tue Dec 10 10:53:19 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.203,
+        "timestamp": "Tue Dec 10 10:53:37 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.287,
+        "timestamp": "Tue Dec 10 10:53:56 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.228,
+        "timestamp": "Tue Dec 10 10:54:14 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.207,
+        "timestamp": "Tue Dec 10 10:54:32 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.413,
+        "timestamp": "Tue Dec 10 10:54:50 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.376,
+        "timestamp": "Tue Dec 10 10:55:09 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.292,
+        "timestamp": "Tue Dec 10 10:55:27 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.325,
+        "timestamp": "Tue Dec 10 10:55:45 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.298,
+        "timestamp": "Tue Dec 10 10:56:03 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.296,
+        "timestamp": "Tue Dec 10 10:56:22 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.304,
+        "timestamp": "Tue Dec 10 10:56:40 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.34,
+        "timestamp": "Tue Dec 10 10:56:58 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.304,
+        "timestamp": "Tue Dec 10 10:57:16 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.36,
+        "timestamp": "Tue Dec 10 10:57:35 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.275,
+        "timestamp": "Tue Dec 10 10:57:53 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.284,
+        "timestamp": "Tue Dec 10 10:58:11 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.297,
+        "timestamp": "Tue Dec 10 10:58:29 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.282,
+        "timestamp": "Tue Dec 10 10:58:47 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.358,
+        "timestamp": "Tue Dec 10 10:59:06 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.307,
+        "timestamp": "Tue Dec 10 10:59:24 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.345,
+        "timestamp": "Tue Dec 10 10:59:42 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.366,
+        "timestamp": "Tue Dec 10 11:00:00 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.341,
+        "timestamp": "Tue Dec 10 11:00:18 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.314,
+        "timestamp": "Tue Dec 10 11:00:37 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.356,
+        "timestamp": "Tue Dec 10 11:00:55 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.402,
+        "timestamp": "Tue Dec 10 11:01:13 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.446,
+        "timestamp": "Tue Dec 10 11:01:31 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.106,
+        "timestamp": "Tue Dec 10 11:01:49 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.094,
+        "timestamp": "Tue Dec 10 11:02:07 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.617,
+        "timestamp": "Tue Dec 10 11:02:26 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.274,
+        "timestamp": "Tue Dec 10 11:02:44 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.443,
+        "timestamp": "Tue Dec 10 11:03:02 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.366,
+        "timestamp": "Tue Dec 10 11:03:20 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.356,
+        "timestamp": "Tue Dec 10 11:03:38 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.371,
+        "timestamp": "Tue Dec 10 11:03:57 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.33,
+        "timestamp": "Tue Dec 10 11:04:15 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.225,
+        "timestamp": "Tue Dec 10 11:04:33 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.335,
+        "timestamp": "Tue Dec 10 11:04:51 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.248,
+        "timestamp": "Tue Dec 10 11:05:09 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.206,
+        "timestamp": "Tue Dec 10 11:05:28 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 17.236,
+        "timestamp": "Tue Dec 10 11:05:46 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19.315,
+        "timestamp": "Tue Dec 10 11:06:06 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 18.624,
+        "timestamp": "Tue Dec 10 11:06:26 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19.379,
+        "timestamp": "Tue Dec 10 11:06:46 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19.035,
+        "timestamp": "Tue Dec 10 11:07:06 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 18.697,
+        "timestamp": "Tue Dec 10 11:07:26 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 18.748,
+        "timestamp": "Tue Dec 10 11:07:46 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19.45,
+        "timestamp": "Tue Dec 10 11:08:06 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19.571,
+        "timestamp": "Tue Dec 10 11:08:26 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19.23,
+        "timestamp": "Tue Dec 10 11:08:47 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 18.805,
+        "timestamp": "Tue Dec 10 11:09:06 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 18.847,
+        "timestamp": "Tue Dec 10 11:09:26 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19.355,
+        "timestamp": "Tue Dec 10 11:09:46 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19.589,
+        "timestamp": "Tue Dec 10 11:10:07 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 18.616,
+        "timestamp": "Tue Dec 10 11:10:27 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 20.219,
+        "timestamp": "Tue Dec 10 11:10:48 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 18.79,
+        "timestamp": "Tue Dec 10 11:11:08 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19.041,
+        "timestamp": "Tue Dec 10 11:11:28 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19,
+        "timestamp": "Tue Dec 10 11:11:48 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 18.966,
+        "timestamp": "Tue Dec 10 11:12:08 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19.053,
+        "timestamp": "Tue Dec 10 11:12:28 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 18.769,
+        "timestamp": "Tue Dec 10 11:12:48 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 18.33,
+        "timestamp": "Tue Dec 10 11:13:07 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 18.95,
+        "timestamp": "Tue Dec 10 11:13:27 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 19.215,
+        "timestamp": "Tue Dec 10 11:13:47 CET 2024"
+    },
+    {
+        "step": "WordCount File Query",
+        "execution_time_seconds": 18.907,
+        "timestamp": "Tue Dec 10 11:14:07 CET 2024"
+    }
+]

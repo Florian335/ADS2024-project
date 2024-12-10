@@ -1,0 +1,102 @@
+{
+    "latency": 0.007817,
+    "cumulative_rows_scanned": 48012267,
+    "cumulative_cardinality": 366,
+    "extra_info": {},
+    "cpu_time": 0.050949999999999995,
+    "blocked_thread_time": 0.0,
+    "result_set_size": 16,
+    "query_name": "SELECT sum(LO_EXTENDEDPRICE * LO_DISCOUNT) AS REVENUE FROM lineorder, date WHERE LO_ORDERDATE = D_DATEKEY AND D_YEAR = 1993 AND LO_DISCOUNT BETWEEN 1 AND 3 AND LO_QUANTITY < 25;",
+    "rows_returned": 1,
+    "children": [
+        {
+            "operator_timing": 0.000001,
+            "operator_rows_scanned": 0,
+            "cumulative_rows_scanned": 48012267,
+            "operator_cardinality": 1,
+            "operator_type": "UNGROUPED_AGGREGATE",
+            "cumulative_cardinality": 366,
+            "extra_info": {
+                "Aggregates": "sum(#0)"
+            },
+            "result_set_size": 16,
+            "cpu_time": 0.050949999999999995,
+            "children": [
+                {
+                    "result_set_size": 0,
+                    "cpu_time": 0.050948999999999994,
+                    "extra_info": {
+                        "Projections": "(LO_EXTENDEDPRICE * LO_DISCOUNT)",
+                        "Estimated Cardinality": "300177"
+                    },
+                    "cumulative_cardinality": 365,
+                    "operator_type": "PROJECTION",
+                    "operator_cardinality": 0,
+                    "cumulative_rows_scanned": 48012267,
+                    "operator_rows_scanned": 0,
+                    "operator_timing": 0.0,
+                    "children": [
+                        {
+                            "operator_timing": 0.00013000000000000002,
+                            "operator_rows_scanned": 0,
+                            "cumulative_rows_scanned": 48012267,
+                            "operator_cardinality": 0,
+                            "operator_type": "HASH_JOIN",
+                            "cumulative_cardinality": 365,
+                            "extra_info": {
+                                "Join Type": "INNER",
+                                "Conditions": "LO_ORDERDATE = D_DATEKEY",
+                                "Estimated Cardinality": "300177"
+                            },
+                            "result_set_size": 0,
+                            "cpu_time": 0.050948999999999994,
+                            "children": [
+                                {
+                                    "result_set_size": 0,
+                                    "cpu_time": 0.050766,
+                                    "extra_info": {
+                                        "Text": "lineorder",
+                                        "Projections": [
+                                            "LO_ORDERDATE",
+                                            "LO_DISCOUNT",
+                                            "LO_EXTENDEDPRICE"
+                                        ],
+                                        "Filters": [
+                                            "LO_DISCOUNT>=1 AND LO_DISCOUNT<=3 AND LO_DISCOUNT IS NOT NULL",
+                                            "LO_QUANTITY<25 AND LO_QUANTITY IS NOT NULL"
+                                        ],
+                                        "Estimated Cardinality": "1200242"
+                                    },
+                                    "cumulative_cardinality": 0,
+                                    "operator_type": "TABLE_SCAN",
+                                    "operator_cardinality": 0,
+                                    "cumulative_rows_scanned": 48009712,
+                                    "operator_rows_scanned": 48009712,
+                                    "operator_timing": 0.050766,
+                                    "children": []
+                                },
+                                {
+                                    "result_set_size": 5840,
+                                    "cpu_time": 0.000053,
+                                    "extra_info": {
+                                        "Text": "date",
+                                        "Projections": "D_DATEKEY",
+                                        "Filters": "D_YEAR=1993 AND D_YEAR IS NOT NULL",
+                                        "Estimated Cardinality": "639"
+                                    },
+                                    "cumulative_cardinality": 365,
+                                    "operator_type": "TABLE_SCAN",
+                                    "operator_cardinality": 365,
+                                    "cumulative_rows_scanned": 2555,
+                                    "operator_rows_scanned": 2555,
+                                    "operator_timing": 0.000053,
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
