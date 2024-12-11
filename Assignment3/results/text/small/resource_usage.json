@@ -1,0 +1,1838 @@
+[
+    {
+        "memory_percent": 0.021867521107196808,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:42.527832",
+        "cpu_percent": 0
+    },
+    {
+        "memory_percent": 0.020030053332448006,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:43.03141",
+        "cpu_percent": 30.383902410899456
+    },
+    {
+        "memory_percent": 0.04584670066833496,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:43.532412",
+        "cpu_percent": 34.36715316228807
+    },
+    {
+        "memory_percent": 0.03612923249602318,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:44.032751",
+        "cpu_percent": 13.914613063117082
+    },
+    {
+        "memory_percent": 0.057995567098259926,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:44.534439",
+        "cpu_percent": 15.096826950292408
+    },
+    {
+        "memory_percent": 0.020762287080287933,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:45.042809",
+        "cpu_percent": 16.113991242564442
+    },
+    {
+        "memory_percent": 0.018190782517194748,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:45.548206",
+        "cpu_percent": 17.491382994720972
+    },
+    {
+        "memory_percent": 0.07642229460179806,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:46.053317",
+        "cpu_percent": 13.630626778088603
+    },
+    {
+        "memory_percent": 0.03989950940012932,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:46.553525",
+        "cpu_percent": 13.240616903368199
+    },
+    {
+        "memory_percent": 0.040021102875471115,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:47.059496",
+        "cpu_percent": 0.24848753164769616
+    },
+    {
+        "memory_percent": 0.07900214195251465,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:47.564768",
+        "cpu_percent": 16.575231309682845
+    },
+    {
+        "memory_percent": 0.055410467088222504,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:48.067753",
+        "cpu_percent": 15.273812600648123
+    },
+    {
+        "memory_percent": 0.06725263595581055,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:48.574099",
+        "cpu_percent": 10.968878922349864
+    },
+    {
+        "memory_percent": 0.02558457851409912,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:49.079209",
+        "cpu_percent": 19.072610661693375
+    },
+    {
+        "memory_percent": 0.04438340663909912,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:49.58108",
+        "cpu_percent": 13.955348265397822
+    },
+    {
+        "memory_percent": 0.03950059413909912,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:50.087365",
+        "cpu_percent": 11.877239311546257
+    },
+    {
+        "memory_percent": 0.05939805507659912,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:50.587725",
+        "cpu_percent": 14.719837234586851
+    },
+    {
+        "memory_percent": 0.08298814296722412,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:51.092832",
+        "cpu_percent": 14.349905069618913
+    },
+    {
+        "memory_percent": 0.07090318202972412,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:51.595297",
+        "cpu_percent": 10.438537746457008
+    },
+    {
+        "memory_percent": 0.06882798671722412,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:52.100201",
+        "cpu_percent": 18.293114068358225
+    },
+    {
+        "memory_percent": 0.07367169857025146,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:52.601039",
+        "cpu_percent": 14.31261243812783
+    },
+    {
+        "memory_percent": 0.04824042320251465,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:53.107387",
+        "cpu_percent": 10.563412269112353
+    },
+    {
+        "memory_percent": 0.047025442123413086,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:53.612504",
+        "cpu_percent": 14.91120180714543
+    },
+    {
+        "memory_percent": 0.04985140450298786,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:54.113088",
+        "cpu_percent": 14.48029617170208
+    },
+    {
+        "memory_percent": 0.13151609897613525,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:54.615765",
+        "cpu_percent": 8.83506173920136
+    },
+    {
+        "memory_percent": 0.12501347064971924,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:55.120881",
+        "cpu_percent": 15.722366634066764
+    },
+    {
+        "memory_percent": 0.13050615787506104,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:55.626051",
+        "cpu_percent": 14.208677775930193
+    },
+    {
+        "memory_percent": 0.11068439483642578,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:56.130275",
+        "cpu_percent": 11.316472114137484
+    },
+    {
+        "memory_percent": 0.10155629739165306,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:56.631396",
+        "cpu_percent": 15.362522300314899
+    },
+    {
+        "memory_percent": 0.10668337345123291,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:57.134331",
+        "cpu_percent": 14.20333324717209
+    },
+    {
+        "memory_percent": 0.08914649486541748,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:57.640757",
+        "cpu_percent": 11.570964124010986
+    },
+    {
+        "memory_percent": 0.0894775390625,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:58.14247",
+        "cpu_percent": 15.357162789214357
+    },
+    {
+        "memory_percent": 0.09393560886383057,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:58.647366",
+        "cpu_percent": 14.807648886802655
+    },
+    {
+        "memory_percent": 0.06961548328399658,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:59.149039",
+        "cpu_percent": 10.908475704680862
+    },
+    {
+        "memory_percent": 0.06913813203573227,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:01:59.654165",
+        "cpu_percent": 14.785975752200475
+    },
+    {
+        "memory_percent": 0.06972134113311768,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:00.154331",
+        "cpu_percent": 14.33040632266294
+    },
+    {
+        "memory_percent": 0.0494384765625,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:00.658524",
+        "cpu_percent": 11.667066642601998
+    },
+    {
+        "memory_percent": 0.0513920783996582,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:01.160959",
+        "cpu_percent": 15.128068356199009
+    },
+    {
+        "memory_percent": 0.14697265625,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:01.664285",
+        "cpu_percent": 12.090153756290617
+    },
+    {
+        "memory_percent": 0.1330885887145996,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:02.165733",
+        "cpu_percent": 12.281360366774155
+    },
+    {
+        "memory_percent": 0.13511872291564941,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:02.667607",
+        "cpu_percent": 15.383059655247305
+    },
+    {
+        "memory_percent": 0.14084255695343018,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:03.171985",
+        "cpu_percent": 14.491792829159197
+    },
+    {
+        "memory_percent": 0.11327791213989258,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:03.675634",
+        "cpu_percent": 10.328387516926169
+    },
+    {
+        "memory_percent": 0.11468935012817383,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:04.180758",
+        "cpu_percent": 15.513100977005237
+    },
+    {
+        "memory_percent": 0.1208963394165039,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:04.680921",
+        "cpu_percent": 14.360693413947054
+    },
+    {
+        "memory_percent": 0.09325945377349854,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:05.186761",
+        "cpu_percent": 10.89569536423841
+    },
+    {
+        "memory_percent": 0.09056699275970459,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:05.687116",
+        "cpu_percent": 15.999103620294756
+    },
+    {
+        "memory_percent": 0.09518051147460938,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:06.187568",
+        "cpu_percent": 14.477021955976149
+    },
+    {
+        "memory_percent": 0.07294011116027832,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:06.688681",
+        "cpu_percent": 11.4107920043263
+    },
+    {
+        "memory_percent": 0.07522463798522949,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:07.192956",
+        "cpu_percent": 14.728954846795608
+    },
+    {
+        "memory_percent": 0.0808110237121582,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:07.696525",
+        "cpu_percent": 14.19843121679988
+    },
+    {
+        "memory_percent": 0.1564946174621582,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:08.200578",
+        "cpu_percent": 8.158369308172107
+    },
+    {
+        "memory_percent": 0.15218663215637207,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:08.701379",
+        "cpu_percent": 15.895233369409379
+    },
+    {
+        "memory_percent": 0.15712010860443115,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:09.204349",
+        "cpu_percent": 14.53985013082239
+    },
+    {
+        "memory_percent": 0.13603925704956055,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:09.710637",
+        "cpu_percent": 10.977021256424132
+    },
+    {
+        "memory_percent": 0.13221323490142822,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:10.214429",
+        "cpu_percent": 15.174622756487874
+    },
+    {
+        "memory_percent": 0.13880455493927002,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:10.719608",
+        "cpu_percent": 14.195056168654427
+    },
+    {
+        "memory_percent": 0.12016928195953369,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:11.222357",
+        "cpu_percent": 11.48234044542216
+    },
+    {
+        "memory_percent": 0.11805415153503418,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:11.722575",
+        "cpu_percent": 15.378810142120026
+    },
+    {
+        "memory_percent": 0.12562203407287598,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:12.227712",
+        "cpu_percent": 14.155699279795064
+    },
+    {
+        "memory_percent": 0.11236751079559326,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:12.734002",
+        "cpu_percent": 11.888308535831452
+    },
+    {
+        "memory_percent": 0.12140023708343506,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:13.239119",
+        "cpu_percent": 14.573541581700331
+    },
+    {
+        "memory_percent": 0.13317656517028809,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:13.741501",
+        "cpu_percent": 14.558920712518436
+    },
+    {
+        "memory_percent": 0.11052894592285156,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:14.243634",
+        "cpu_percent": 10.412517773856797
+    },
+    {
+        "memory_percent": 0.12017297744750977,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:14.74876",
+        "cpu_percent": 15.036026021487919
+    },
+    {
+        "memory_percent": 0.1306368112564087,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:15.249034",
+        "cpu_percent": 14.337579032164566
+    },
+    {
+        "memory_percent": 0.11592972278594971,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:15.755468",
+        "cpu_percent": 10.411010364484707
+    },
+    {
+        "memory_percent": 0.1267944574356079,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:16.25563",
+        "cpu_percent": 15.978486884197057
+    },
+    {
+        "memory_percent": 0.13925831764936447,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:16.760306",
+        "cpu_percent": 14.135099896764428
+    },
+    {
+        "memory_percent": 0.12861621379852295,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:17.266573",
+        "cpu_percent": 10.89642608819323
+    },
+    {
+        "memory_percent": 0.14314305782318115,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:17.766677",
+        "cpu_percent": 14.48309509098798
+    },
+    {
+        "memory_percent": 0.161484956741333,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:18.267679",
+        "cpu_percent": 14.080532612644262
+    },
+    {
+        "memory_percent": 0.14682316780090332,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:18.771853",
+        "cpu_percent": 10.199901224577228
+    },
+    {
+        "memory_percent": 0.15866446495056152,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:19.271968",
+        "cpu_percent": 14.579650839608568
+    },
+    {
+        "memory_percent": 0.08952951431274414,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:19.774159",
+        "cpu_percent": 15.925349372543241
+    },
+    {
+        "memory_percent": 0.08391427993774414,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:20.278963",
+        "cpu_percent": 12.298417050138962
+    },
+    {
+        "memory_percent": 0.10222530364990234,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:20.78408",
+        "cpu_percent": 16.295963761559616
+    },
+    {
+        "memory_percent": 0.12710630893707275,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:21.289184",
+        "cpu_percent": 14.395887652861836
+    },
+    {
+        "memory_percent": 0.11831724643707275,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:21.792583",
+        "cpu_percent": 9.984401351584895
+    },
+    {
+        "memory_percent": 0.13994157314300537,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:22.294082",
+        "cpu_percent": 15.096462541625954
+    },
+    {
+        "memory_percent": 0.08075118064880371,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:22.796072",
+        "cpu_percent": 15.703331520559052
+    },
+    {
+        "memory_percent": 0.1589977741241455,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:23.300462",
+        "cpu_percent": 8.864417230215329
+    },
+    {
+        "memory_percent": 0.09678481705486774,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:23.800785",
+        "cpu_percent": 16.597235963455315
+    },
+    {
+        "memory_percent": 0.12516963481903076,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:24.305901",
+        "cpu_percent": 14.447430054562588
+    },
+    {
+        "memory_percent": 0.12431514263153076,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:24.809172",
+        "cpu_percent": 10.464171322752163
+    },
+    {
+        "memory_percent": 0.1508876085281372,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:25.31428",
+        "cpu_percent": 14.346186512823152
+    },
+    {
+        "memory_percent": 0.10143077373504639,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:25.819398",
+        "cpu_percent": 15.405353236391713
+    },
+    {
+        "memory_percent": 0.10020065307617188,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:26.325401",
+        "cpu_percent": 10.828356527685004
+    },
+    {
+        "memory_percent": 0.12717771530151367,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:26.827373",
+        "cpu_percent": 14.224454790492528
+    },
+    {
+        "memory_percent": 0.158760666847229,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:27.331798",
+        "cpu_percent": 14.096781260098211
+    },
+    {
+        "memory_percent": 0.16097581386566162,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:27.834995",
+        "cpu_percent": 10.488311019874445
+    },
+    {
+        "memory_percent": 0.10865235328674316,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:28.335231",
+        "cpu_percent": 16.2524439051305
+    },
+    {
+        "memory_percent": 0.14493215084075928,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:28.83542",
+        "cpu_percent": 14.180579657411554
+    },
+    {
+        "memory_percent": 0.08294522762298584,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:29.336951",
+        "cpu_percent": 20.067860717547084
+    },
+    {
+        "memory_percent": 0.07586643844842911,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:29.840937",
+        "cpu_percent": 26.629093257720214
+    },
+    {
+        "memory_percent": 0.1804802194237709,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:30.341651",
+        "cpu_percent": 12.522517574692444
+    },
+    {
+        "memory_percent": 0.16744564473628998,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:30.842059",
+        "cpu_percent": 11.409897082334133
+    },
+    {
+        "memory_percent": 0.16756723821163177,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:31.346419",
+        "cpu_percent": 0.17415773778838756
+    },
+    {
+        "memory_percent": 0.1548508871346712,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:31.851673",
+        "cpu_percent": 15.41482028313743
+    },
+    {
+        "memory_percent": 0.143736332654953,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:32.353206",
+        "cpu_percent": 13.269789824398396
+    },
+    {
+        "memory_percent": 0.120081702247262,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:32.856655",
+        "cpu_percent": 11.997573774920202
+    },
+    {
+        "memory_percent": 0.1143803596496582,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:33.361758",
+        "cpu_percent": 14.343758414242044
+    },
+    {
+        "memory_percent": 0.11131885834038258,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:33.866891",
+        "cpu_percent": 14.159557893361471
+    },
+    {
+        "memory_percent": 0.18565967865288258,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:34.370695",
+        "cpu_percent": 8.066412142528225
+    },
+    {
+        "memory_percent": 0.1778569221496582,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:34.870847",
+        "cpu_percent": 15.092498175529096
+    },
+    {
+        "memory_percent": 0.1760258674621582,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:35.373964",
+        "cpu_percent": 14.318247319201374
+    },
+    {
+        "memory_percent": 0.1484379768371582,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:35.880287",
+        "cpu_percent": 10.817271610497544
+    },
+    {
+        "memory_percent": 0.14744949340820312,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:36.385405",
+        "cpu_percent": 15.2107333548465
+    },
+    {
+        "memory_percent": 0.15013551712036133,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:36.885584",
+        "cpu_percent": 14.396999668118148
+    },
+    {
+        "memory_percent": 0.12323629856109619,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:37.391786",
+        "cpu_percent": 10.919628217538175
+    },
+    {
+        "memory_percent": 0.12523508071899414,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:37.896918",
+        "cpu_percent": 14.692498812163446
+    },
+    {
+        "memory_percent": 0.13011789321899414,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:38.402026",
+        "cpu_percent": 14.34004838559598
+    },
+    {
+        "memory_percent": 0.1040644645690918,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:38.907329",
+        "cpu_percent": 11.220963483946552
+    },
+    {
+        "memory_percent": 0.1076045036315918,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:39.411342",
+        "cpu_percent": 14.320276863431369
+    },
+    {
+        "memory_percent": 0.11288964748382568,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:39.916456",
+        "cpu_percent": 14.471696656418215
+    },
+    {
+        "memory_percent": 0.0915060043334961,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:40.423077",
+        "cpu_percent": 11.476815381669821
+    },
+    {
+        "memory_percent": 0.09516763687133789,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:40.926714",
+        "cpu_percent": 14.489861564488073
+    },
+    {
+        "memory_percent": 0.10731685161590576,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:41.431814",
+        "cpu_percent": 14.345104929716888
+    },
+    {
+        "memory_percent": 0.18470990657806396,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:41.938391",
+        "cpu_percent": 8.090292034489838
+    },
+    {
+        "memory_percent": 0.17972970008850098,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:42.440599",
+        "cpu_percent": 14.831731056427493
+    },
+    {
+        "memory_percent": 0.09513664245605469,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:42.954584",
+        "cpu_percent": 16.21278580656207
+    },
+    {
+        "memory_percent": 0.1855907440185547,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:43.460809",
+        "cpu_percent": 11.370433435920937
+    },
+    {
+        "memory_percent": 0.09792792797088623,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:43.962855",
+        "cpu_percent": 17.414060461438254
+    },
+    {
+        "memory_percent": 0.11373138427734375,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:44.46546",
+        "cpu_percent": 14.395066862182922
+    },
+    {
+        "memory_percent": 0.10079193115234375,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:44.967659",
+        "cpu_percent": 11.468729092328278
+    },
+    {
+        "memory_percent": 0.11656534671783447,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:45.470956",
+        "cpu_percent": 14.629173008221835
+    },
+    {
+        "memory_percent": 0.1348731517791748,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:45.974112",
+        "cpu_percent": 14.412868059903209
+    },
+    {
+        "memory_percent": 0.1181495189666748,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:46.48053",
+        "cpu_percent": 9.619411649714769
+    },
+    {
+        "memory_percent": 0.13605964183807373,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:46.985672",
+        "cpu_percent": 14.22226236550625
+    },
+    {
+        "memory_percent": 0.15088629722595215,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:47.485912",
+        "cpu_percent": 14.292104126852125
+    },
+    {
+        "memory_percent": 0.14234185218811035,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:47.992215",
+        "cpu_percent": 10.583623177242266
+    },
+    {
+        "memory_percent": 0.1596313714981079,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:48.493873",
+        "cpu_percent": 15.003214328429614
+    },
+    {
+        "memory_percent": 0.18257272243499756,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:48.995639",
+        "cpu_percent": 14.204949707732872
+    },
+    {
+        "memory_percent": 0.11381077766418457,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:49.498772",
+        "cpu_percent": 22.646057757284254
+    },
+    {
+        "memory_percent": 0.10953748226165771,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:50.0005",
+        "cpu_percent": 25.94919047989205
+    },
+    {
+        "memory_percent": 0.12343261763453484,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:50.505287",
+        "cpu_percent": 13.170054537422418
+    },
+    {
+        "memory_percent": 0.11554389633238316,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:51.011678",
+        "cpu_percent": 11.289509593282727
+    },
+    {
+        "memory_percent": 0.12739180214703083,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:51.511815",
+        "cpu_percent": 13.75765052616425
+    },
+    {
+        "memory_percent": 0.14267386682331562,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:52.013861",
+        "cpu_percent": 13.633864760857614
+    },
+    {
+        "memory_percent": 0.12397544831037521,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:52.520434",
+        "cpu_percent": 10.060932879573297
+    },
+    {
+        "memory_percent": 0.1350497007369995,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:53.023059",
+        "cpu_percent": 16.043076794518257
+    },
+    {
+        "memory_percent": 0.15395018830895424,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:53.525426",
+        "cpu_percent": 13.96691303075603
+    },
+    {
+        "memory_percent": 0.1426180601119995,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:54.028177",
+        "cpu_percent": 10.094936520028561
+    },
+    {
+        "memory_percent": 0.1637362241744995,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:54.533332",
+        "cpu_percent": 14.359395538697875
+    },
+    {
+        "memory_percent": 0.18205010890960693,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:55.033445",
+        "cpu_percent": 14.267675505335795
+    },
+    {
+        "memory_percent": 0.11631965637207031,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:55.542182",
+        "cpu_percent": 22.291379195118978
+    },
+    {
+        "memory_percent": 0.12808895111083984,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:56.047276",
+        "cpu_percent": 23.078050074640753
+    },
+    {
+        "memory_percent": 0.14324652403593063,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:56.547512",
+        "cpu_percent": 24.350659086274934
+    },
+    {
+        "memory_percent": 0.13993378914892673,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:57.051063",
+        "cpu_percent": 17.04982821281751
+    },
+    {
+        "memory_percent": 0.14005585946142673,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:57.555973",
+        "cpu_percent": 0.1676466685547134
+    },
+    {
+        "memory_percent": 0.1571169625967741,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:58.061157",
+        "cpu_percent": 13.684109988736665
+    },
+    {
+        "memory_percent": 0.18290675058960915,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:58.561474",
+        "cpu_percent": 13.494813319475535
+    },
+    {
+        "memory_percent": 0.17591546662151814,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:59.063428",
+        "cpu_percent": 9.674709044038838
+    },
+    {
+        "memory_percent": 0.10889644920825958,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:02:59.564125",
+        "cpu_percent": 15.852380419781543
+    },
+    {
+        "memory_percent": 0.1301887072622776,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:00.06708",
+        "cpu_percent": 14.224581865322062
+    },
+    {
+        "memory_percent": 0.13044452667236328,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:00.573541",
+        "cpu_percent": 10.551133918029356
+    },
+    {
+        "memory_percent": 0.15622413158416748,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:01.078656",
+        "cpu_percent": 14.229017479741596
+    },
+    {
+        "memory_percent": 0.18444061279296875,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:01.580111",
+        "cpu_percent": 14.278756032385434
+    },
+    {
+        "memory_percent": 0.17906951904296875,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:02.082376",
+        "cpu_percent": 9.920495473523047
+    },
+    {
+        "memory_percent": 0.120361328125,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:02.584647",
+        "cpu_percent": 17.685304458974095
+    },
+    {
+        "memory_percent": 0.15063297748565674,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:03.089799",
+        "cpu_percent": 13.913127825859734
+    },
+    {
+        "memory_percent": 0.15606820583343506,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:03.596215",
+        "cpu_percent": 10.307686155875494
+    },
+    {
+        "memory_percent": 0.1851024627685547,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:04.097421",
+        "cpu_percent": 14.708228170110035
+    },
+    {
+        "memory_percent": 0.14010703563690186,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:04.600357",
+        "cpu_percent": 15.21048942706314
+    },
+    {
+        "memory_percent": 0.14420390129089355,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:05.106099",
+        "cpu_percent": 10.295238575428273
+    },
+    {
+        "memory_percent": 0.17674040794372559,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:05.60623",
+        "cpu_percent": 14.170920637205796
+    },
+    {
+        "memory_percent": 0.13664162158966064,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:06.107229",
+        "cpu_percent": 15.168498676641423
+    },
+    {
+        "memory_percent": 0.14203548431396484,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:06.609136",
+        "cpu_percent": 9.778185437034411
+    },
+    {
+        "memory_percent": 0.17869174480438232,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:07.114236",
+        "cpu_percent": 14.324692333277897
+    },
+    {
+        "memory_percent": 0.1359868049621582,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:07.619342",
+        "cpu_percent": 14.911854786341031
+    },
+    {
+        "memory_percent": 0.1491004228591919,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:08.125924",
+        "cpu_percent": 10.251045715379863
+    },
+    {
+        "memory_percent": 0.1868438720703125,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:08.62704",
+        "cpu_percent": 14.097198385963791
+    },
+    {
+        "memory_percent": 0.1585155725479126,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:09.132166",
+        "cpu_percent": 15.219167654866993
+    },
+    {
+        "memory_percent": 0.1666259765625,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:09.638908",
+        "cpu_percent": 9.868101682473153
+    },
+    {
+        "memory_percent": 0.13685123808681965,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:10.144029",
+        "cpu_percent": 15.128150811311642
+    },
+    {
+        "memory_percent": 0.18185436725616455,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:10.647888",
+        "cpu_percent": 13.926765396424056
+    },
+    {
+        "memory_percent": 0.192968487739563,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:11.150833",
+        "cpu_percent": 9.504933909668594
+    },
+    {
+        "memory_percent": 0.16716508567333221,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:11.653843",
+        "cpu_percent": 15.634027033635983
+    },
+    {
+        "memory_percent": 0.14886832237243652,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:12.153998",
+        "cpu_percent": 15.144159157387952
+    },
+    {
+        "memory_percent": 0.16045046225190163,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:12.657878",
+        "cpu_percent": 10.175213590402572
+    },
+    {
+        "memory_percent": 0.14214134216308594,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:13.162983",
+        "cpu_percent": 14.996381875920617
+    },
+    {
+        "memory_percent": 0.1907426230609417,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:13.668086",
+        "cpu_percent": 13.790940156049233
+    },
+    {
+        "memory_percent": 0.14180095866322517,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:14.174812",
+        "cpu_percent": 10.391008424421944
+    },
+    {
+        "memory_percent": 0.1876724176108837,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:14.679929",
+        "cpu_percent": 13.70112926344465
+    },
+    {
+        "memory_percent": 0.1733197644352913,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:15.180347",
+        "cpu_percent": 15.096049510510193
+    },
+    {
+        "memory_percent": 0.1932005900889635,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:15.68677",
+        "cpu_percent": 9.582179013528002
+    },
+    {
+        "memory_percent": 0.18182490393519402,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:16.191874",
+        "cpu_percent": 15.48482751657124
+    },
+    {
+        "memory_percent": 0.17679517343640327,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:16.694124",
+        "cpu_percent": 14.911130623150836
+    },
+    {
+        "memory_percent": 0.13873107358813286,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:17.199458",
+        "cpu_percent": 12.013845051776714
+    },
+    {
+        "memory_percent": 0.1871194839477539,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:17.703748",
+        "cpu_percent": 13.700681769507176
+    },
+    {
+        "memory_percent": 0.1839196477085352,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:18.208894",
+        "cpu_percent": 14.714198187069558
+    },
+    {
+        "memory_percent": 0.15556477569043636,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:18.713453",
+        "cpu_percent": 12.113060849953127
+    },
+    {
+        "memory_percent": 0.15350127220153809,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:19.214607",
+        "cpu_percent": 14.829155209501499
+    },
+    {
+        "memory_percent": 0.15681731514632702,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:19.719776",
+        "cpu_percent": 15.02395709201186
+    },
+    {
+        "memory_percent": 0.1822892427444458,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:20.223363",
+        "cpu_percent": 9.434211884970829
+    },
+    {
+        "memory_percent": 0.18382179737091064,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:20.723676",
+        "cpu_percent": 15.189304145862732
+    },
+    {
+        "memory_percent": 0.19232094287872314,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:21.22686",
+        "cpu_percent": 14.675541798742014
+    },
+    {
+        "memory_percent": 0.17082417011260986,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:21.730752",
+        "cpu_percent": 11.417879717004535
+    },
+    {
+        "memory_percent": 0.17808055877685547,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:22.230947",
+        "cpu_percent": 15.263591416810113
+    },
+    {
+        "memory_percent": 0.18442226201295853,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:22.733517",
+        "cpu_percent": 14.312377132032822
+    },
+    {
+        "memory_percent": 0.1728462241590023,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:23.235122",
+        "cpu_percent": 12.101703531663361
+    },
+    {
+        "memory_percent": 0.18673519045114517,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:23.736881",
+        "cpu_percent": 14.784044300240353
+    },
+    {
+        "memory_percent": 0.15557444468140602,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:24.24039",
+        "cpu_percent": 15.772397404604108
+    },
+    {
+        "memory_percent": 0.1890246532857418,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:24.74276",
+        "cpu_percent": 9.73193705188482
+    },
+    {
+        "memory_percent": 0.15701507031917572,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:25.243044",
+        "cpu_percent": 16.152619143756073
+    },
+    {
+        "memory_percent": 0.17941656708717346,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:25.74682",
+        "cpu_percent": 14.351950183912198
+    },
+    {
+        "memory_percent": 0.17562364786863327,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:26.249516",
+        "cpu_percent": 11.876249490257706
+    },
+    {
+        "memory_percent": 0.17221194505691528,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:26.754266",
+        "cpu_percent": 14.368052074644815
+    },
+    {
+        "memory_percent": 0.21599024161696434,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:27.254536",
+        "cpu_percent": 13.568468752998369
+    },
+    {
+        "memory_percent": 0.1618342362344265,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:27.756628",
+        "cpu_percent": 11.359275170084285
+    },
+    {
+        "memory_percent": 0.203358992934227,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:28.261731",
+        "cpu_percent": 13.77576980263197
+    },
+    {
+        "memory_percent": 0.1830582618713379,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:28.766831",
+        "cpu_percent": 15.311630112414717
+    },
+    {
+        "memory_percent": 0.19483278691768646,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:29.268739",
+        "cpu_percent": 9.913372303842461
+    },
+    {
+        "memory_percent": 0.17268526554107666,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:29.773864",
+        "cpu_percent": 15.79490494281523
+    },
+    {
+        "memory_percent": 0.21603758074343204,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:30.277783",
+        "cpu_percent": 13.979484716729143
+    },
+    {
+        "memory_percent": 0.171688761562109,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:30.7814",
+        "cpu_percent": 12.16388882270247
+    },
+    {
+        "memory_percent": 0.21807920932769775,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:31.285074",
+        "cpu_percent": 14.268767012863758
+    },
+    {
+        "memory_percent": 0.20417869463562965,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:31.786765",
+        "cpu_percent": 15.008585945161574
+    },
+    {
+        "memory_percent": 0.2191011905670166,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:32.288739",
+        "cpu_percent": 9.297706699815134
+    },
+    {
+        "memory_percent": 0.2012842483818531,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:32.789061",
+        "cpu_percent": 15.850809095124644
+    },
+    {
+        "memory_percent": 0.1928361840546131,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:33.293473",
+        "cpu_percent": 14.793773505230876
+    },
+    {
+        "memory_percent": 0.21779227256774902,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:33.800231",
+        "cpu_percent": 10.264966819332598
+    },
+    {
+        "memory_percent": 0.2047554850578308,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:34.300388",
+        "cpu_percent": 15.683070078976307
+    },
+    {
+        "memory_percent": 0.20189641043543816,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:34.803707",
+        "cpu_percent": 14.788531957886203
+    },
+    {
+        "memory_percent": 0.17197036743164062,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:35.310498",
+        "cpu_percent": 11.879020323599052
+    },
+    {
+        "memory_percent": 0.16823549941182137,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:35.821309",
+        "cpu_percent": 15.389741004659175
+    },
+    {
+        "memory_percent": 0.1689885463565588,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:36.322126",
+        "cpu_percent": 14.633127268806383
+    },
+    {
+        "memory_percent": 0.19587645307183266,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:36.828448",
+        "cpu_percent": 9.49582089080596
+    },
+    {
+        "memory_percent": 0.19775147922337055,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:37.333382",
+        "cpu_percent": 15.51570821128599
+    },
+    {
+        "memory_percent": 0.19621515274047852,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:37.834219",
+        "cpu_percent": 14.40157654824585
+    },
+    {
+        "memory_percent": 0.17824038304388523,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:38.34044",
+        "cpu_percent": 12.195807932550798
+    },
+    {
+        "memory_percent": 0.18313360214233398,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:38.841101",
+        "cpu_percent": 14.966957426664163
+    },
+    {
+        "memory_percent": 0.19247608073055744,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:39.346221",
+        "cpu_percent": 14.581683619129823
+    },
+    {
+        "memory_percent": 0.17526651173830032,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:39.851143",
+        "cpu_percent": 11.449712140026499
+    },
+    {
+        "memory_percent": 0.18635050021111965,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:40.35309",
+        "cpu_percent": 14.82705188792018
+    },
+    {
+        "memory_percent": 0.20239369198679924,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:40.853348",
+        "cpu_percent": 14.4650085454709
+    },
+    {
+        "memory_percent": 0.18828624859452248,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:41.358454",
+        "cpu_percent": 12.403710236856485
+    },
+    {
+        "memory_percent": 0.20131243765354156,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:41.858614",
+        "cpu_percent": 15.043417061715608
+    },
+    {
+        "memory_percent": 0.2216583415865898,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:42.36375",
+        "cpu_percent": 14.689905292832028
+    },
+    {
+        "memory_percent": 0.2130722999572754,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:42.867949",
+        "cpu_percent": 10.629751235098004
+    },
+    {
+        "memory_percent": 0.1834727730602026,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:43.371719",
+        "cpu_percent": 16.040985949602785
+    },
+    {
+        "memory_percent": 0.20852568186819553,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:43.876845",
+        "cpu_percent": 14.466556001647108
+    },
+    {
+        "memory_percent": 0.2089962139725685,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:44.383635",
+        "cpu_percent": 10.736437970722235
+    },
+    {
+        "memory_percent": 0.18884265422821045,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:44.883844",
+        "cpu_percent": 15.561199499392234
+    },
+    {
+        "memory_percent": 0.21640583500266075,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:45.386853",
+        "cpu_percent": 14.627243467404616
+    },
+    {
+        "memory_percent": 0.2206866480410099,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:45.889997",
+        "cpu_percent": 10.774424576320031
+    },
+    {
+        "memory_percent": 0.2117607593536377,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:46.395127",
+        "cpu_percent": 15.953209850391097
+    },
+    {
+        "memory_percent": 0.20899713039398193,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:46.899683",
+        "cpu_percent": 15.481568870725432
+    },
+    {
+        "memory_percent": 0.21254672668874264,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:47.402075",
+        "cpu_percent": 10.061070882629258
+    },
+    {
+        "memory_percent": 0.20980829000473022,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:47.907165",
+        "cpu_percent": 15.665828847254204
+    },
+    {
+        "memory_percent": 0.21097467839717865,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:48.412319",
+        "cpu_percent": 15.2529639652302
+    },
+    {
+        "memory_percent": 0.22425840981304646,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:48.919117",
+        "cpu_percent": 9.823479213117341
+    },
+    {
+        "memory_percent": 0.19468961469829082,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:49.423976",
+        "cpu_percent": 17.181158300699426
+    },
+    {
+        "memory_percent": 0.20387992076575756,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:49.927298",
+        "cpu_percent": 14.858331710728661
+    },
+    {
+        "memory_percent": 0.2235877439379692,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:50.431617",
+        "cpu_percent": 10.30502507381358
+    },
+    {
+        "memory_percent": 0.20299063622951508,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:50.933309",
+        "cpu_percent": 17.220459351773044
+    },
+    {
+        "memory_percent": 0.22235503047704697,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:51.433514",
+        "cpu_percent": 14.756168384604928
+    },
+    {
+        "memory_percent": 0.21601553075015545,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:51.936155",
+        "cpu_percent": 10.463193955381549
+    },
+    {
+        "memory_percent": 0.2095612846314907,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:52.439905",
+        "cpu_percent": 16.82093036644122
+    },
+    {
+        "memory_percent": 0.2070477083325386,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:52.940893",
+        "cpu_percent": 14.782090588996144
+    },
+    {
+        "memory_percent": 0.2098287045955658,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:53.447665",
+        "cpu_percent": 12.802840455025308
+    },
+    {
+        "memory_percent": 0.2144400179386139,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:53.949942",
+        "cpu_percent": 16.206103936957707
+    },
+    {
+        "memory_percent": 0.20062712579965591,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:54.453692",
+        "cpu_percent": 14.7846762202905
+    },
+    {
+        "memory_percent": 0.20670258067548275,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:54.959596",
+        "cpu_percent": 10.613237849195414
+    },
+    {
+        "memory_percent": 0.20292195305228233,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:55.459715",
+        "cpu_percent": 15.868063817577227
+    },
+    {
+        "memory_percent": 0.22399450093507767,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:55.959912",
+        "cpu_percent": 14.30876267018533
+    },
+    {
+        "memory_percent": 0.21598506718873978,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:56.466896",
+        "cpu_percent": 11.142987321398985
+    },
+    {
+        "memory_percent": 0.23782145977020264,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:56.972011",
+        "cpu_percent": 16.616569227022822
+    },
+    {
+        "memory_percent": 0.2086296658962965,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:57.474601",
+        "cpu_percent": 14.516803754904537
+    },
+    {
+        "memory_percent": 0.24348953366279602,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:57.981037",
+        "cpu_percent": 9.579575117584106
+    },
+    {
+        "memory_percent": 0.24221599102020264,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:58.481219",
+        "cpu_percent": 15.061393880505106
+    },
+    {
+        "memory_percent": 0.24699878692626953,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:58.98139",
+        "cpu_percent": 14.493331320700396
+    },
+    {
+        "memory_percent": 0.2257845401763916,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:59.489132",
+        "cpu_percent": 11.388353300548106
+    },
+    {
+        "memory_percent": 0.22366034984588623,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:03:59.99023",
+        "cpu_percent": 14.85358330988431
+    },
+    {
+        "memory_percent": 0.22771382331848145,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:00.493155",
+        "cpu_percent": 14.69106909935418
+    },
+    {
+        "memory_percent": 0.25395894050598145,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:00.995576",
+        "cpu_percent": 9.562215879688233
+    },
+    {
+        "memory_percent": 0.2570749521255493,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:01.495748",
+        "cpu_percent": 14.748678438758333
+    },
+    {
+        "memory_percent": 0.21425626054406166,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:02.000027",
+        "cpu_percent": 15.569580529825751
+    },
+    {
+        "memory_percent": 0.24244630336761475,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:02.50312",
+        "cpu_percent": 9.349657125819917
+    },
+    {
+        "memory_percent": 0.250756174325943,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:03.003836",
+        "cpu_percent": 15.122526013061451
+    },
+    {
+        "memory_percent": 0.2515030950307846,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:03.50652",
+        "cpu_percent": 13.610979040176973
+    },
+    {
+        "memory_percent": 0.2457869052886963,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:04.010537",
+        "cpu_percent": 12.424459011449693
+    },
+    {
+        "memory_percent": 0.25413438118994236,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:04.510665",
+        "cpu_percent": 14.72627459919459
+    },
+    {
+        "memory_percent": 0.22102856263518333,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:05.013329",
+        "cpu_percent": 15.43324818767059
+    },
+    {
+        "memory_percent": 0.2619633674621582,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:05.517077",
+        "cpu_percent": 10.190961262838607
+    },
+    {
+        "memory_percent": 0.22829156927764416,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:06.017196",
+        "cpu_percent": 16.321699512905212
+    },
+    {
+        "memory_percent": 0.2516791820526123,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:06.522318",
+        "cpu_percent": 14.447682360440762
+    },
+    {
+        "memory_percent": 0.24956534802913666,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:07.028672",
+        "cpu_percent": 10.939255787866758
+    },
+    {
+        "memory_percent": 0.2310916818678379,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:07.533121",
+        "cpu_percent": 16.309407456895954
+    },
+    {
+        "memory_percent": 0.2598486505448818,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:08.033301",
+        "cpu_percent": 14.402717718348098
+    },
+    {
+        "memory_percent": 0.25495561957359314,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:08.538258",
+        "cpu_percent": 10.91890971309073
+    },
+    {
+        "memory_percent": 0.24119694158434868,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:09.039962",
+        "cpu_percent": 16.266140316607334
+    },
+    {
+        "memory_percent": 0.23140759766101837,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:09.541289",
+        "cpu_percent": 15.388827274758244
+    },
+    {
+        "memory_percent": 0.2362360656261444,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:10.04674",
+        "cpu_percent": 10.721199501444229
+    },
+    {
+        "memory_percent": 0.23082714527845383,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:10.549646",
+        "cpu_percent": 16.316994068391466
+    },
+    {
+        "memory_percent": 0.23293279483914375,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:11.053059",
+        "cpu_percent": 15.218449301963402
+    },
+    {
+        "memory_percent": 0.2385393138974905,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:11.560015",
+        "cpu_percent": 9.800937149259413
+    },
+    {
+        "memory_percent": 0.24155974388122559,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:12.061152",
+        "cpu_percent": 15.433881164093805
+    },
+    {
+        "memory_percent": 0.24808201380074024,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:12.562455",
+        "cpu_percent": 14.92999313795112
+    },
+    {
+        "memory_percent": 0.25924454256892204,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:13.066304",
+        "cpu_percent": 9.9200808569166
+    },
+    {
+        "memory_percent": 0.2576608173549175,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:13.566443",
+        "cpu_percent": 16.12717468023378
+    },
+    {
+        "memory_percent": 0.23866401612758636,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:14.071536",
+        "cpu_percent": 15.577316760742125
+    },
+    {
+        "memory_percent": 0.2367953434586525,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:14.575242",
+        "cpu_percent": 13.211419841933173
+    },
+    {
+        "memory_percent": 0.2473063673824072,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:15.076246",
+        "cpu_percent": 14.557526716460215
+    },
+    {
+        "memory_percent": 0.25250228494405746,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:15.577992",
+        "cpu_percent": 13.89359193850238
+    },
+    {
+        "memory_percent": 0.23991256207227707,
+        "script": "WordCountFile.java",
+        "timestamp": "2024-12-10T10:04:16.078459",
+        "cpu_percent": 14.66474879512776
+    }
+]

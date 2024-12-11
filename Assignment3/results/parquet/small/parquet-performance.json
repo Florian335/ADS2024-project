@@ -1,0 +1,502 @@
+[
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 2.501,
+        "timestamp": "Tue Dec 10 09:56:23 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.741,
+        "timestamp": "Tue Dec 10 09:56:25 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.655,
+        "timestamp": "Tue Dec 10 09:56:27 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.604,
+        "timestamp": "Tue Dec 10 09:56:29 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.742,
+        "timestamp": "Tue Dec 10 09:56:31 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.65,
+        "timestamp": "Tue Dec 10 09:56:33 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.775,
+        "timestamp": "Tue Dec 10 09:56:35 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.638,
+        "timestamp": "Tue Dec 10 09:56:37 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.684,
+        "timestamp": "Tue Dec 10 09:56:39 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.682,
+        "timestamp": "Tue Dec 10 09:56:41 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.62,
+        "timestamp": "Tue Dec 10 09:56:43 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.717,
+        "timestamp": "Tue Dec 10 09:56:45 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.686,
+        "timestamp": "Tue Dec 10 09:56:47 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.725,
+        "timestamp": "Tue Dec 10 09:56:49 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.652,
+        "timestamp": "Tue Dec 10 09:56:51 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.645,
+        "timestamp": "Tue Dec 10 09:56:53 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.686,
+        "timestamp": "Tue Dec 10 09:56:55 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.643,
+        "timestamp": "Tue Dec 10 09:56:57 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.649,
+        "timestamp": "Tue Dec 10 09:56:59 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.655,
+        "timestamp": "Tue Dec 10 09:57:01 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.609,
+        "timestamp": "Tue Dec 10 09:57:03 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.694,
+        "timestamp": "Tue Dec 10 09:57:05 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.623,
+        "timestamp": "Tue Dec 10 09:57:07 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.659,
+        "timestamp": "Tue Dec 10 09:57:09 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.639,
+        "timestamp": "Tue Dec 10 09:57:11 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.579,
+        "timestamp": "Tue Dec 10 09:57:13 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.698,
+        "timestamp": "Tue Dec 10 09:57:16 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.627,
+        "timestamp": "Tue Dec 10 09:57:17 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.675,
+        "timestamp": "Tue Dec 10 09:57:20 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.656,
+        "timestamp": "Tue Dec 10 09:57:22 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.662,
+        "timestamp": "Tue Dec 10 09:57:24 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.655,
+        "timestamp": "Tue Dec 10 09:57:26 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.618,
+        "timestamp": "Tue Dec 10 09:57:28 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.661,
+        "timestamp": "Tue Dec 10 09:57:30 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.669,
+        "timestamp": "Tue Dec 10 09:57:32 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.65,
+        "timestamp": "Tue Dec 10 09:57:34 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.628,
+        "timestamp": "Tue Dec 10 09:57:36 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.632,
+        "timestamp": "Tue Dec 10 09:57:38 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.666,
+        "timestamp": "Tue Dec 10 09:57:40 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.673,
+        "timestamp": "Tue Dec 10 09:57:42 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.655,
+        "timestamp": "Tue Dec 10 09:57:44 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.669,
+        "timestamp": "Tue Dec 10 09:57:46 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.615,
+        "timestamp": "Tue Dec 10 09:57:48 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.832,
+        "timestamp": "Tue Dec 10 09:57:50 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.652,
+        "timestamp": "Tue Dec 10 09:57:52 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.791,
+        "timestamp": "Tue Dec 10 09:57:54 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.728,
+        "timestamp": "Tue Dec 10 09:57:56 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.632,
+        "timestamp": "Tue Dec 10 09:57:58 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.681,
+        "timestamp": "Tue Dec 10 09:58:00 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.686,
+        "timestamp": "Tue Dec 10 09:58:02 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.644,
+        "timestamp": "Tue Dec 10 09:58:04 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.655,
+        "timestamp": "Tue Dec 10 09:58:06 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.644,
+        "timestamp": "Tue Dec 10 09:58:08 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.686,
+        "timestamp": "Tue Dec 10 09:58:10 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.692,
+        "timestamp": "Tue Dec 10 09:58:12 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.667,
+        "timestamp": "Tue Dec 10 09:58:14 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.838,
+        "timestamp": "Tue Dec 10 09:58:16 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.72,
+        "timestamp": "Tue Dec 10 09:58:18 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.594,
+        "timestamp": "Tue Dec 10 09:58:20 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.614,
+        "timestamp": "Tue Dec 10 09:58:22 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.795,
+        "timestamp": "Tue Dec 10 09:58:24 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.572,
+        "timestamp": "Tue Dec 10 09:58:26 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.671,
+        "timestamp": "Tue Dec 10 09:58:28 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.688,
+        "timestamp": "Tue Dec 10 09:58:30 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.678,
+        "timestamp": "Tue Dec 10 09:58:32 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.679,
+        "timestamp": "Tue Dec 10 09:58:34 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.682,
+        "timestamp": "Tue Dec 10 09:58:36 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.723,
+        "timestamp": "Tue Dec 10 09:58:38 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.726,
+        "timestamp": "Tue Dec 10 09:58:40 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.681,
+        "timestamp": "Tue Dec 10 09:58:42 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.675,
+        "timestamp": "Tue Dec 10 09:58:44 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.657,
+        "timestamp": "Tue Dec 10 09:58:46 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.718,
+        "timestamp": "Tue Dec 10 09:58:48 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.573,
+        "timestamp": "Tue Dec 10 09:58:50 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.722,
+        "timestamp": "Tue Dec 10 09:58:52 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.699,
+        "timestamp": "Tue Dec 10 09:58:54 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.716,
+        "timestamp": "Tue Dec 10 09:58:56 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.73,
+        "timestamp": "Tue Dec 10 09:58:58 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.742,
+        "timestamp": "Tue Dec 10 09:59:00 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.705,
+        "timestamp": "Tue Dec 10 09:59:02 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.694,
+        "timestamp": "Tue Dec 10 09:59:04 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.662,
+        "timestamp": "Tue Dec 10 09:59:06 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.724,
+        "timestamp": "Tue Dec 10 09:59:08 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.708,
+        "timestamp": "Tue Dec 10 09:59:10 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.714,
+        "timestamp": "Tue Dec 10 09:59:12 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.709,
+        "timestamp": "Tue Dec 10 09:59:14 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.673,
+        "timestamp": "Tue Dec 10 09:59:16 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.713,
+        "timestamp": "Tue Dec 10 09:59:18 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.728,
+        "timestamp": "Tue Dec 10 09:59:20 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.703,
+        "timestamp": "Tue Dec 10 09:59:22 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.733,
+        "timestamp": "Tue Dec 10 09:59:25 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.702,
+        "timestamp": "Tue Dec 10 09:59:27 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.751,
+        "timestamp": "Tue Dec 10 09:59:29 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.734,
+        "timestamp": "Tue Dec 10 09:59:31 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.716,
+        "timestamp": "Tue Dec 10 09:59:33 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.716,
+        "timestamp": "Tue Dec 10 09:59:35 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.673,
+        "timestamp": "Tue Dec 10 09:59:37 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.756,
+        "timestamp": "Tue Dec 10 09:59:39 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.72,
+        "timestamp": "Tue Dec 10 09:59:41 CET 2024"
+    },
+    {
+        "step": "WordCount Parquet Query",
+        "execution_time_seconds": 1.7,
+        "timestamp": "Tue Dec 10 09:59:43 CET 2024"
+    }
+]
