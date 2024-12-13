@@ -14,7 +14,6 @@ class NaiveBayesTextClassifier:
 
     def fit(self, train_texts, train_labels):
         X = self.vectorizer.fit_transform(train_texts)
-
         self.feature_names = self.vectorizer.get_feature_names_out()
 
         label_counts = Counter(train_labels)
@@ -26,10 +25,10 @@ class NaiveBayesTextClassifier:
         for label, row in zip(train_labels, X):
             vocab_per_label[label] += row.toarray()[0]
 
-        self.total_per_label = {label: np.sum(vector) for label, vector in vocab_per_label.items()}
+        total_per_label = {label: np.sum(vector) for label, vector in vocab_per_label.items()}
 
         self.word_probabilities = {
-            label: (vector + 1) / (self.total_per_label[label] + len(self.feature_names))
+            label: vector / total_per_label[label]
             for label, vector in vocab_per_label.items()
         }
 

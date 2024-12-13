@@ -7,7 +7,7 @@ RETURNS TABLE ("FEATURE" VARCHAR(16777216), "LABEL" VARCHAR(16777216), "PROBABIL
 LANGUAGE PYTHON
 RUNTIME_VERSION = '3.10'
 PACKAGES = ('numpy', 'pandas', 'scikit-learn')
-HANDLER = 'TrainAndPredictUDTF'
+HANDLER = 'TrainUDTF'
 AS '
 import math
 import numpy as np
@@ -34,10 +34,12 @@ class NaiveBayesTextClassifier:
             vocab_per_label[label] += row.toarray()[0]
 
         total_per_label = {label: np.sum(vector) for label, vector in vocab_per_label.items()}
+
         self.word_probabilities = {
-            label: (vector + 1) / (total_per_label[label] + len(self.feature_names))
+            label: vector / total_per_label[label]
             for label, vector in vocab_per_label.items()
         }
+
 
 class TrainUDTF:
     def __init__(self):
@@ -77,5 +79,4 @@ FROM (
     LIMIT 1000
 ) AS data,
      TABLE(train_and_predict_classifier(data.mode, data.label, data.text) OVER ()) AS results
-     WHERE results.feature != '__PRIOR__'; -- Exclude prior probabilities
 ;
