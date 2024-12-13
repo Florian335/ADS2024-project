@@ -39,12 +39,12 @@ class NaiveBayesTextClassifier:
             for label, vector in vocab_per_label.items()
         }
 
-class TrainAndPredictUDTF:
+class TrainUDTF:
     def __init__(self):
         self.mode = None
         self.labels = []
         self.texts = []
-        self.model_parameters = []  # Store model parameters for prediction
+        self.model_parameters = []
         self.classifier = None
 
     def process(self, mode, label, text):
@@ -55,15 +55,12 @@ class TrainAndPredictUDTF:
 
     def end_partition(self):
         if self.mode == "TRAIN":
-            # Training phase
             self.classifier = NaiveBayesTextClassifier()
             self.classifier.fit(self.texts, self.labels)
 
-            # Output priors
             for lbl, p in self.classifier.priors.items():
                 yield ("__PRIOR__", lbl, str(p))
 
-            # Output word probabilities
             for lbl, probs in self.classifier.word_probabilities.items():
                 for i, prob in enumerate(probs):
                     yield (self.classifier.feature_names[i], lbl, str(prob))
