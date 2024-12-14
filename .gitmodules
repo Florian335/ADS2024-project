@@ -4,3 +4,6 @@
 [submodule "Assignment1/yelp_review_full"]
 	path = Assignment1/yelp_review_full
 	url = https://huggingface.co/datasets/Yelp/yelp_review_full
+[submodule "Assignment2/duckdb"]
+	path = Assignment2/duckdb
+	url = https://github.com/duckdb/duckdb
