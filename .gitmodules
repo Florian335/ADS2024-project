@@ -7,3 +7,6 @@
 [submodule "Assignment2/duckdb"]
 	path = Assignment2/duckdb
 	url = https://github.com/duckdb/duckdb
+[submodule "Assignment2/Assignment2/ads2024-ssb-dbgen"]
+	path = Assignment2/Assignment2/ads2024-ssb-dbgen
+	url = https://github.itu.dk/pito/ads2024-ssb-dbgen
