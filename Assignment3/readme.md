@@ -1,6 +1,6 @@
 # Assignment 3
 
-Welcome to the third assignment!
+Welcome to the third assignment.
 
 ---
 
