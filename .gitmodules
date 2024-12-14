@@ -1,3 +1,6 @@
 [submodule "Assignment3/incubator-wayang"]
 	path = Assignment3/incubator-wayang
 	url = git@github.com:Florian335/incubator-wayang.git
+[submodule "Assignment1/yelp_review_full"]
+	path = Assignment1/yelp_review_full
+	url = https://huggingface.co/datasets/Yelp/yelp_review_full
