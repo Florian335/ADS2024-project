@@ -1,6 +1,6 @@
 # Assignment 3
 
-Welcome to assignment3
+Welcome to the third assignment!
 
 ---
 
@@ -57,7 +57,12 @@ mvn clean
 mvn compile
 ```
 ### **7. Run the custom test**
-Run my simple test file which utilizes the JSONPlaceholder API and outputs the word counts:
+Run my simple test file. Adjust the inputURL to match the parquet file in the yelp_review_full. Train is the large file and test is the small file. Afterwards run:
 ```zsh
 mvn exec:java -Dexec.mainClass="org.apache.wayang.apps.wordcount.WordCountParquet"
+```
+### **BONUS: Run the TextFileSource operator**
+To generate the txt files just go to the convert notebook and run it. Afterwards go to Wayang Benchmark and run:
+```zsh
+mvn exec:java -Dexec.mainClass="org.apache.wayang.apps.wordcount.WordCountFile"
 ```
