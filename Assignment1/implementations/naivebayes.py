@@ -10,6 +10,7 @@ class NaiveBayesTextClassifier:
         self.vocab_per_label_dict = {}
         self.total_per_label = {}
         self.word_probabilities = {}
+        self.feature_names = []
     
 
     def fit(self, train_texts, train_labels):
@@ -27,8 +28,10 @@ class NaiveBayesTextClassifier:
 
         total_per_label = {label: np.sum(vector) for label, vector in vocab_per_label.items()}
 
+        vocab_size = len(self.feature_names)
+
         self.word_probabilities = {
-            label: vector / total_per_label[label]
+            label: (vector + 1) / (total_per_label[label] + 1 * vocab_size)
             for label, vector in vocab_per_label.items()
         }
 

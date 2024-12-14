@@ -35,8 +35,10 @@ class NaiveBayesTextClassifier:
 
         total_per_label = {label: np.sum(vector) for label, vector in vocab_per_label.items()}
 
+        vocab_size = len(self.feature_names)
+
         self.word_probabilities = {
-            label: vector / total_per_label[label]
+            label: (vector + 1) / (total_per_label[label] + 1 * vocab_size)
             for label, vector in vocab_per_label.items()
         }
 
@@ -75,7 +77,7 @@ FROM (
            parse_json(u.COL1):label::string AS label,
            parse_json(u.COL1):text::string AS text,
     FROM TRAINING AS u
-    WHERE parse_json(u.COL1):label::string IN ('0', '1') -- Filter labels
+    WHERE parse_json(u.COL1):label::string IN ('0', '1')
     LIMIT 1000
 ) AS data,
      TABLE(train_and_predict_classifier(data.mode, data.label, data.text) OVER ()) AS results
